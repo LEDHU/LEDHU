@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![LEDHU](https://github-readme-stats.vercel.app/api?username=LEDHU&show_icons=true&theme=radical&include_all_commits=true&count_private=true")](https://github.com/LEDHU)
+
+[![LEDHU](https://github-readme-stats.vercel.app/api?username=LEDHU&show_icons=true&theme=radical&include_all_commits=true&count_private=true")](https://github.com/LEDHU)-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
