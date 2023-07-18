@@ -2,9 +2,8 @@
 
 Sou estudante de Ciência da Computação 👨‍💻🌐
 
-Sou apaixonado pela tecnologia desde pequeno incentivado pela minha família 🎮👾
-
-Gosto de jogar jogos de tabuleiros e de quebra-cabeça 🀄🧩
+<p1>Sou apaixonado pela tecnologia desde pequeno incentivado pela minha família 🎮👾
+<br>Gosto de jogar jogos de tabuleiros e de quebra-cabeça 🀄🧩</p1>
 
 <!--
 - 🔭 I’m currently working on ...
