@@ -3,7 +3,7 @@
 Sou estudante de Ciência da Computação 👨‍💻🌐
 
 <p1>Sou apaixonado pela tecnologia desde pequeno incentivado pela minha família 🎮👾
-<br>Gosto de jogar jogos de tabuleiros e de quebra-cabeça 🀄🧩</p1>
+<br><br>Gosto de jogar jogos de tabuleiros e de quebra-cabeça 🀄🧩</p1>
 
 <!--
 - 🔭 I’m currently working on ...
