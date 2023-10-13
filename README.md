@@ -1,9 +1,14 @@
-### Oii, sou Luís Eduardo👋
+### Hello, I'm Luis Eduardo👋
 
-Sou estudante de Ciência da Computação 👨‍💻🌐
+I am Computer Science student 👨‍💻🌐
+
+<p1>I've been passionate about technology since I was a child, I was encouraged by my family 🎮👾
+<br>I enjoy board games, puzzles, and swimming 🀄🧩🏊</p1>
 
 <p1>Sou apaixonado pela tecnologia desde pequeno incentivado pela minha família 🎮👾
-<br>Gosto de jogar jogos de tabuleiros e de quebra-cabeça 🀄🧩</p1>
+<br>Gosto jogos de tabuleiros, de quebra-cabeça e de nadar 🀄🧩🏊</p1>
+
+
 
 <!--
 - 🔭 I’m currently working on ...
