@@ -1,11 +1,11 @@
 ### Hello, I'm Luis Eduardo👋
 
-(🇺🇸) - I am Computer Science student 👨‍💻🌐
+(🇺🇸) - I am Computer Scientist 👨‍💻🌐
 
 <p1>I've been passionate about technology since I was a child and have encouraged by my family 🎮👾
 <br>I enjoy board games, puzzles, and swimming 🀄🧩🏊</p1>
 
-(🇧🇷) - Eu sou estudante de Ciência da Computação 👨‍💻🌐
+(🇧🇷) - Eu sou Cientista da Computação 👨‍💻🌐
 
 <p1>Sou apaixonado pela tecnologia desde pequeno incentivado pela minha família 🎮👾
 <br>Gosto jogos de tabuleiros, de quebra-cabeça e de nadar 🀄🧩🏊</p1>
