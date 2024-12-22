@@ -33,6 +33,16 @@
     <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
+
+### Certificados e Conquistas
+
+- [Certificado de Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.1](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.1-_Luis-Eduardo-Peixoto-da-Silva.pdf)
+- [Certificado de Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.2](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.2-_Luis-Eduardo-Peixoto-da-Silva.pdf)
+- [Certificado do Workshop de Git e Github em 2024.1](https://github.com/LEDHU/Certificados/blob/master/Certificado-Workshop-de-GitGitHub-da-UNICAP_Luis-Eduardo-Peixoto-da-Silva.pdf)
+
+- [Curso de Lógica de Programação](https://github.com/LEDHU/Certificados/blob/master/Logica%20de%20prog.pdf)
+- [Curso de C e C++](https://github.com/LEDHU/Certificados/blob/master/C%20e%20C%2B%2B.pdf)
+- [Curso de Banco de Dados e SQL](https://github.com/LEDHU/Certificados/blob/master/BD%20SQL.pdf)
   
 ### Contate-me por:
  
