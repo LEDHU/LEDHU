@@ -34,7 +34,7 @@
     <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
 
-### Certificados e Conquistas
+### Certificados e Conquistas:
 
 - [Certificado de Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.1](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.1-_Luis-Eduardo-Peixoto-da-Silva.pdf)
 - [Certificado de Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.2](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.2-_Luis-Eduardo-Peixoto-da-Silva.pdf)
