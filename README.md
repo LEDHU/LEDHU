@@ -30,6 +30,7 @@
 - [Curso de Lógica de Programação](https://github.com/LEDHU/Certificados/blob/master/Logica%20de%20prog.pdf)
 - [Curso de C e C++](https://github.com/LEDHU/Certificados/blob/master/C%20e%20C%2B%2B.pdf)
 - [Curso de Banco de Dados e SQL](https://github.com/LEDHU/Certificados/blob/master/BD%20SQL.pdf)
+- [Curso de Análise_de_Dados_como_Suporte_a_Tomada_de_Decisao](https://github.com/LEDHU/Certificados/blob/master/analise_de_dados_como_suporte_a_tomada_de_decisao_turma_dez2024_certificado.pdf) 
   
 ### Contate-me por:
  
