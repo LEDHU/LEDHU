@@ -23,14 +23,14 @@
 
 ### Certificados:
 
-- [Certificado de Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.1](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.1-_Luis-Eduardo-Peixoto-da-Silva.pdf)
-- [Certificado de Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.2](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.2-_Luis-Eduardo-Peixoto-da-Silva.pdf)
-- [Certificado do Workshop de Git e Github em 2024.1](https://github.com/LEDHU/Certificados/blob/master/Certificado-Workshop-de-GitGitHub-da-UNICAP_Luis-Eduardo-Peixoto-da-Silva.pdf)
+- [Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.1](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.1-_Luis-Eduardo-Peixoto-da-Silva.pdf)
+- [Monitoria da disciplina de 'Estrutura de Dados 1' em 2023.2](https://github.com/LEDHU/Certificados/blob/master/Certificado-Estrutura-de-Dados-1-2023.2-_Luis-Eduardo-Peixoto-da-Silva.pdf)
+- [Workshop de Git e Github em 2024.1](https://github.com/LEDHU/Certificados/blob/master/Certificado-Workshop-de-GitGitHub-da-UNICAP_Luis-Eduardo-Peixoto-da-Silva.pdf)
 
-- [Certificado de Curso de Lógica de Programação](https://github.com/LEDHU/Certificados/blob/master/Logica%20de%20prog.pdf)
-- [Certificado de Curso de C e C++](https://github.com/LEDHU/Certificados/blob/master/C%20e%20C%2B%2B.pdf)
-- [Certificado de Curso de Banco de Dados e SQL](https://github.com/LEDHU/Certificados/blob/master/BD%20SQL.pdf)
-- [Certificado de Curso de Análise de Dados como Suporte a Tomada de Decisao](https://github.com/LEDHU/Certificados/blob/master/analise_de_dados_como_suporte_a_tomada_de_decisao_turma_dez2024_certificado.pdf) 
+- [Curso de Lógica de Programação](https://github.com/LEDHU/Certificados/blob/master/Logica%20de%20prog.pdf)
+- [Curso de C e C++](https://github.com/LEDHU/Certificados/blob/master/C%20e%20C%2B%2B.pdf)
+- [Curso de Banco de Dados e SQL](https://github.com/LEDHU/Certificados/blob/master/BD%20SQL.pdf)
+- [Curso de Análise de Dados como Suporte a Tomada de Decisao](https://github.com/LEDHU/Certificados/blob/master/analise_de_dados_como_suporte_a_tomada_de_decisao_turma_dez2024_certificado.pdf) 
   
 ### Contate-me por:
  
