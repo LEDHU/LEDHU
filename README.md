@@ -30,7 +30,8 @@
 - [Curso de Lógica de Programação em 2021.1](https://github.com/LEDHU/Certificados/blob/master/Logica%20de%20prog.pdf)
 - [Curso de C e C++ em 2021.2](https://github.com/LEDHU/Certificados/blob/master/C%20e%20C%2B%2B.pdf)
 - [Curso de Banco de Dados e SQL em 2024.2](https://github.com/LEDHU/Certificados/blob/master/BD%20SQL.pdf)
-- [Curso de Análise de Dados como Suporte a Tomada de Decisao em 2025.1](https://github.com/LEDHU/Certificados/blob/master/analise_de_dados_como_suporte_a_tomada_de_decisao_turma_dez2024_certificado.pdf) 
+- [Curso de Análise de Dados como Suporte a Tomada de Decisao em 2025.1](https://github.com/LEDHU/Certificados/blob/master/analise_de_dados_como_suporte_a_tomada_de_decisao_turma_dez2024_certificado.pdf)
+- [Curso de Mandarim Experimental em 2025.1](https://github.com/LEDHU/Certificados/blob/master/certificate-mandarim.pdf) 
   
 ### Contate-me por:
  
